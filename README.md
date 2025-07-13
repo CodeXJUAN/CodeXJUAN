@@ -2,7 +2,7 @@
 
 **`Code Illusionist (Frontend Dev - Mobile Dev - UI/UX )`**
 
-<img align="left" alt="Chicken Joe" width="100px" style="padding-right:20px;" src="https://static.wikia.nocookie.net/surfs-up/images/0/07/Chicken_Joe.png/revision/latest?cb=20180524174854"/>
+<img align="left" alt="Chicken Joe" width="200px" style="padding-right:20px;" src="https://static.wikia.nocookie.net/surfs-up/images/0/07/Chicken_Joe.png/revision/latest?cb=20180524174854"/>
 
 I started programming when I was 15 years old in high school, creating a web from scratch with a Microsoft course. I was so passionate about it that I kept on learning Frontend and little by little I also started to like Backend. To continue my education, I studied a CFGM in Microcomputer Systems and Networks and now I am studying a CFGS in Multiplatform Applications Development.
 
@@ -33,14 +33,3 @@ I started programming when I was 15 years old in high school, creating a web fro
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=CodeXJUAN&theme=gruvbox&border_radius=4.5)
 
-#
-
-<details>
- <summary><h3>👨‍💻 Juan's Coding Journey</h3></summary>
- 
-I started programming when I was 15, I was still in high school. It all started when a subject I had, they made me make a web page following a microsoft “course” where they taught you how to make a web from scratch and explaining you a little bit the basics to make it. <br>
-
-I really liked doing that course, I liked it so much, that from that moment, I went deeper into the world of Frontend, where I also had to learn the basics of Backend, which by the way now little by little I'm liking more.<br>
-
-In order to be able to keep on going into these paths I have studied what in Spain is a CFGM of Microcomputer Systems and Networks, and now I'm going to study 2nd of a CFGS of Multiplatform Software Development.
-</details>
