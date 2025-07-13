@@ -30,14 +30,10 @@ I'm an indie full-stack developer and content creator building my version of the
 
 #
 
-### 📊 Stats
-
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=codexjuan&show_icons=true&theme=tokypnight)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=CodeXJUAN&theme=gruvbox&border_radius=4.5)
 
 #
-<!--
+
 <details>
  <summary><h3>👨‍💻 Juan's Coding Journey</h3></summary>
 I started programming when I was 15, I was still in high school. It all started when a subject I had, they made me make a web page following a microsoft “course” where they taught you how to make a web from scratch and explaining you a little bit the basics to make it.
@@ -45,4 +41,4 @@ I started programming when I was 15, I was still in high school. It all started 
 I really liked doing that course, I liked it so much, that from that moment, I went deeper into the world of Frontend, where I also had to learn the basics of Backend, which by the way now little by little I'm liking more.
 
 In order to be able to keep on going into these paths I have studied what in Spain is a CFGM of Microcomputer Systems and Networks, and now I'm going to study 2nd of a CFGS of Multiplatform Software Development.
--->
+</details>
