@@ -2,7 +2,7 @@
 
 **`Code Illusionist (Frontend Dev - Mobile Dev - UI/UX )`**
 
-<img align="left" alt="Chicken Joe" width="200px" style="padding-right:20px;" src="https://static.wikia.nocookie.net/surfs-up/images/0/07/Chicken_Joe.png/revision/latest?cb=20180524174854"/>
+<img align="left" alt="Chicken Joe" width="80px" style="padding-right:20px;" src="https://static.wikia.nocookie.net/surfs-up/images/0/07/Chicken_Joe.png/revision/latest?cb=20180524174854"/>
 
 I started programming when I was 15 years old in high school, creating a web from scratch with a Microsoft course. I was so passionate about it that I kept on learning Frontend and little by little I also started to like Backend. To continue my education, I studied a CFGM in Microcomputer Systems and Networks and now I am studying a CFGS in Multiplatform Applications Development.
 
