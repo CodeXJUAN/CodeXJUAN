@@ -36,9 +36,10 @@ I'm an indie full-stack developer and content creator building my version of the
 
 <details>
  <summary><h3>👨‍💻 Juan's Coding Journey</h3></summary>
-I started programming when I was 15, I was still in high school. It all started when a subject I had, they made me make a web page following a microsoft “course” where they taught you how to make a web from scratch and explaining you a little bit the basics to make it.
+ 
+I started programming when I was 15, I was still in high school. It all started when a subject I had, they made me make a web page following a microsoft “course” where they taught you how to make a web from scratch and explaining you a little bit the basics to make it. <br>
 
-I really liked doing that course, I liked it so much, that from that moment, I went deeper into the world of Frontend, where I also had to learn the basics of Backend, which by the way now little by little I'm liking more.
+I really liked doing that course, I liked it so much, that from that moment, I went deeper into the world of Frontend, where I also had to learn the basics of Backend, which by the way now little by little I'm liking more.<br>
 
 In order to be able to keep on going into these paths I have studied what in Spain is a CFGM of Microcomputer Systems and Networks, and now I'm going to study 2nd of a CFGS of Multiplatform Software Development.
 </details>
