@@ -2,7 +2,7 @@
 
 **`Software Developer`**
 
-<img align="left" alt="Chicken Joe" width="80px" style="padding-right:20px;" src="https://pngfre.com/wp-content/uploads/silver-surfer-21.png"/>
+<img align="left" alt="Chicken Joe" width="80px" style="padding-right:20px;" src="https://static.wikia.nocookie.net/surfs-up/images/5/57/Cody_%28Surf%27s_Up%29_Render.png/revision/latest?cb=20220803174656"/>
 
 I started programming when I was 15 years old in high school, creating a web from scratch with a Microsoft course. I was so passionate about it when I made it, that I kept on learning Frontend and little by little I also started to like Backend. To continue my education, I studied a CFGM in Microcomputer Systems and Networks and now I am studying a CFGS in Multiplatform Applications Development.
 
